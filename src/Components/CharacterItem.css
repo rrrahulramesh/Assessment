@@ -1,0 +1,25 @@
+.card{
+  background-color: rgb(60, 62, 68);
+  box-shadow: rgb(0 0 0 / 10%) 0px 4px 6px -1px, rgb(0 0 0 / 6%) 0px 2px 4px -1px;
+}
+
+.card-body{
+  color: white;
+}
+
+.card-body > h5{
+  color: gray;
+}
+
+.chapter__item{
+  text-align: left;
+}
+
+.location__item{
+  list-style:circle;
+  text-align: left;
+}
+
+.card-text{
+  border-bottom: 1px solid white;
+}
